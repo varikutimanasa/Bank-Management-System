@@ -1,3 +1,4 @@
+# Bank Management System
 The Bank Management System is a simple Java-based application developed to simulate basic banking operations.  
 It allows users to create an account, deposit money, withdraw money, and check account balance through a console-based interface.
 This project demonstrates the use of Object-Oriented Programming (OOP) concepts in Java such as classes, objects, constructors, and methods.
